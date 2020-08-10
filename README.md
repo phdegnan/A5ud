@@ -1,8 +1,8 @@
 a5ud_pipeline
 =============
 This package was an update to original software developed by 
-Andrew Tritt and Aaron Darling for the original A5 pipeline.
-This was further modified by Nick Youngblut but is no longer available on GitHub
+Andrew Tritt and Aaron Darling for the original A5 pipeline (Tritt et al. 2012 PLoS ONE, no longer available here: http://code.google.com/p/ngopt/).
+This code was further modified by Nick Youngblut but is no longer available on GitHub
 https://github.com/nyoungb2/a5ud_pipeline
 
 
