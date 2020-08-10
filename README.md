@@ -2,9 +2,7 @@ a5ud_pipeline
 =============
 This package was an update to original software developed by 
 Andrew Tritt and Aaron Darling for the original A5 pipeline (Tritt et al. 2012 PLoS ONE, no longer available here: http://code.google.com/p/ngopt/).
-This code was further modified by Nick Youngblut but is no longer available on GitHub
-https://github.com/nyoungb2/a5ud_pipeline
-
+This code was further modified by Nick Youngblut but is no longer available on GitHub https://github.com/nyoungb2/a5ud_pipeline. Subsquent updates by the original author A. Darling was posted in 2014 to https://sourceforge.net/projects/ngopt/ and published Coil et al. 2015 Bioinformatics
 
 The pipeline requires multiple dependencies which are in the bin/ folder.
 Add the bin/ folder to your PATH to install.
